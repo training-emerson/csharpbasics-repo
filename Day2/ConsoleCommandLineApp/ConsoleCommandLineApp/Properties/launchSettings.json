@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ConsoleCommandLineApp": {
+      "commandName": "Project",
+      "commandLineArgs": "KK 10"
+    }
+  }
+}
