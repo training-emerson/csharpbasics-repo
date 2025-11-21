@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ConstrutorInheritenceApp.Domain.CaseStudy1.ChildOne">
+    <Position X="7.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Domain\CaseStudy1\ChildOne.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConstrutorInheritenceApp.Domain.CaseStudy1.ParentOne">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Domain\CaseStudy1\ParentOne.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConstrutorInheritenceApp.Domain.CaseStudy2.ChildTwo">
+    <Position X="10.75" Y="4.5" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Domain\CaseStudy2\ChildTwo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConstrutorInheritenceApp.Domain.CaseStudy2.ParentTwo">
+    <Position X="11.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAAAAAAAAAAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>Domain\CaseStudy2\ParentTwo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
